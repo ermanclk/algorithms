@@ -1,4 +1,4 @@
 package org.example.model;
 
-public class hakan {//yorum
+public class Hakan {//yorum
 }
