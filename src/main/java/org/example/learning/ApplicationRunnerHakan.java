@@ -5,8 +5,9 @@ public class ApplicationRunnerHakan {
 //Soru1
     public static void main(String[] args) {
 
-        BirdRunner birdRunner = new BirdRunner();
-        birdRunner.doSomething();
+        int[] array = new int[]{123,43,123,66,434,11,234,77,554};
+
+
 
     }
 }
