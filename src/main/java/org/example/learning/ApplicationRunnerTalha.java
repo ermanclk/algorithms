@@ -12,8 +12,8 @@ public class ApplicationRunnerTalha {
 
 
         for (int i = 0 ; i <array.length ; i++){
-            if ( array[i]==aranan){
-                System.out.prinln("sayı mevcut");
+            if ( array[i]==aranan) {
+                System.out.println("sayı mevcut");
             }
             else
                 System.out.println("sayı mevcut değil")
