@@ -1,6 +1,6 @@
 package org.example.learning;
 
-public class ApplicationRunner {
+public class ApplicationRunnerHakan {
 
 //Soru1
     public static void main(String[] args) {
