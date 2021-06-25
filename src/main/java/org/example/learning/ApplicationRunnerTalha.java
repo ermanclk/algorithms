@@ -16,7 +16,7 @@ public class ApplicationRunnerTalha {
                 System.out.println("sayı mevcut");
             }
             else
-                System.out.println("sayı mevcut değil")
+                System.out.println("sayı mevcut değil");
         }
 
         //for dongusu kurcaksınız
