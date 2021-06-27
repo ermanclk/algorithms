@@ -21,7 +21,9 @@ public class ApplicationRunnerTalha {
 
         //for dongusu kurcaksınız
 
-
+        for () { 
+        	
+        }
 
 
     }
