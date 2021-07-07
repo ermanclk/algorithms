@@ -4,10 +4,10 @@ public class Odev5Hakan {
 
     public static void main(String[] args) {
 
-        int[] integerArray = {123, 43, 66, 434, 11, 234, 77, 554};
-        int[] newIntegerArray = new int[integerArray.length-1];
+        int[] integerArray = {123, 43, 123, 66, 434, 11, 234, 77, 554};
+        int[] newIntegerArray = new int[integerArray.length];
         boolean flag = true;
-        int removeValue = 66;
+        int removeValue = 123;
         int i;
         for (i = 0; i < integerArray.length; i++) {
             if (integerArray[i] == removeValue) {
