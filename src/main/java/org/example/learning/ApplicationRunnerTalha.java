@@ -13,16 +13,17 @@ public class ApplicationRunnerTalha {
 
         for (int i = 0 ; i <array.length ; i++){
             if ( array[i]==aranan) {
-                System.out.println("sayı mevcut");
+                System.out.println("sayi mevcut");
+                
             }
             else
-                System.out.println("sayı mevcut değil");
+                System.out.println("sayi mevcut degil");
+            	System.out.println("11");
         }
 
         //for dongusu kurcaksınız
 
-
-
+       
 
     }
 }
